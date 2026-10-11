@@ -1,0 +1,98 @@
+Xbox 360 Legacy Shaders License Agreement 1.0
+============================================
+
+Copyright (c) 2026 Sqalhag. All Rights Reserved.
+
+0. Terminology
+--------------
+  0.1. "The Pack" and/or "This Pack" means the shader package software that this
+       specific license file is found in ("Xbox 360 Legacy Shaders").
+
+  0.2. "Author" and/or "Licensor" means the creator and copyright holder:
+       Sqalhag.
+
+  0.3. "Normal Usage" means usage of The Pack as intended for the general
+       public. This includes most everyday use, but the following usages are
+       definitely NOT considered Normal Usage:
+         a. Redistributing (or distributing parts of) The Pack.
+         b. Modifying the code of The Pack for public distribution.
+
+  0.4. "User" and/or "Users" means people that are using The Pack under our
+       definition of Normal Usage.
+
+  0.5. "Modpack" means a modification package made for the video
+       game "Minecraft: Java Edition".
+
+  0.6. "Modified Pack" means a software package that consists of The Pack or
+       parts of its code, but with the code intentionally being changed to
+       differ from The Pack.
+
+  0.7. "Original Pack" means the official "Xbox 360 Legacy Shaders" package
+       authored and maintained by Sqalhag.
+
+1. Grants
+---------
+  1.1. All Users are free to use This Pack for Normal Usage. This isn't
+       limited to, but explicitly includes:
+         a. Using The Pack for gameplay.
+         b. Using The Pack for content creation (e.g. YouTube videos, Twitch
+            streams, screenshots, commercial or non-commercial media).
+
+  1.2. This Pack is allowed to be included in a Modpack as long as all of
+       the following conditions are met:
+         a. This Pack must be visibly credited in the Modpack's description
+            page(s), including credit to Sqalhag.
+         b. The author of the Modpack must acknowledge that any technical problems
+            that may arise from using This Pack in their Modpack are entirely under
+            the responsibility of the author of the Modpack.
+         c. The contents of This Pack must not be modified in any way,
+            including simple variable changes or shader properties edits.
+         d. This Pack must be added to the Modpack exclusively by using
+            Modrinth's or CurseForge's official dependency systems, similar to
+            how modpack developers add any other mods. It is strictly not
+            allowed to redistribute This Pack as a loose direct file upload or
+            re-host it on third-party file sharing websites.
+
+  1.3. This Pack is allowed to be redistributed as a Modified Pack only as
+       long as all of the following conditions are strictly met:
+         a. The Original Pack and the Author (Sqalhag) must be visibly and
+            prominently credited in the description page(s) of the Modified
+            Pack, including a link to the official project page of Xbox 360
+            Legacy Shaders.
+         b. This license file must still be left inside the Modified Pack
+            without any changes being made to its terms.
+         c. The Modified Pack must NOT have the words "Xbox 360 Legacy Shaders"
+            or "Xbox 360 Legacy" in its title or brand name.
+         d. The Modified Pack must look noticeably different from the
+            Original Pack in multiple common gameplay scenarios, including
+            daytime overworld visuals, regardless of the setting or variable
+            changes in the Modified Pack and/or the Original Pack.
+         e. The Modified Pack must not have any other license agreements or
+            terms conflicting with this agreement.
+         f. The Modified Pack must contain a significant amount of human-written
+            code additions that noticeably contribute to the final visuals.
+            Low-effort tweaks, simple variable shifts, or pure renames are
+            strictly forbidden.
+
+2. Denied Cases
+---------------
+  2.1. Any usage, re-hosting, paywalling, or redistribution of any part of
+       This Pack that is not explicitly covered in the "Grants" section of
+       this license is strictly prohibited and shall be treated as "All
+       Rights Reserved".
+
+  2.2. Commercial sale of This Pack or placing This Pack behind a paywall
+       (including Patreon paywalls, link shorteners with malware/ads, or
+       monetized file mirrors) without explicit prior written consent from
+       Sqalhag is strictly prohibited.
+
+3. License Infringement
+-----------------------
+  3.1. By using or downloading This Pack for any purpose, you agree that
+       Sqalhag reserves the full right to take legal action or file DMCA
+       takedown notices against you or your hosting service in the case of a
+       license infringement.
+
+  3.2. Sqalhag reserves the right to not take action against cases deemed
+       harmless. For this reason, cases where action was not taken in the
+       past cannot be used as an excuse or precedent to ignore this agreement.
